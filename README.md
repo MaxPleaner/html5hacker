@@ -1,3 +1,4 @@
-# HTML5 Hacker
+fork of https://github.com/gkbrk/html5hacker
 
-HackerTyper clone in a single HTML file
+this adds a generator script
+
